@@ -25,6 +25,16 @@ The program calculates total sales, total expenses, overall profit, average mont
 - Conditional Statements
 - Basic Financial Calculations
 
+## Running the Project
+
+Clone the repository and run:
+
+```bash
+python business_financial_analysis.py
+```
+
+The program will ask you to enter the sales and expense amount for each month before generating the report.
+
 ## Project Report
 
 A detailed report explaining the project, workflow, algorithm, and sample output is included in the pdf.
