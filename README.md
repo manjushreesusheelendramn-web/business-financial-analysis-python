@@ -27,4 +27,4 @@ The program calculates total sales, total expenses, overall profit, average mont
 
 ## Project Report
 
-A detailed report explaining the project, workflow, algorithm, and sample output is included as **Project_Report.pdf**.
+A detailed report explaining the project, workflow, algorithm, and sample output is included in the pdf.
